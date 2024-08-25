@@ -292,7 +292,7 @@ int main()
             <<"\t\t|| 4. ADD STUDENT                                                   ||"<<endl
             <<"\t\t|| 5. EDIT STUDENT                                                  ||"<<endl
             <<"\t\t|| 6. DELETE STUDENT                                                ||"<<endl
-			<<"\t\t|| 7. SAVE INFORMATION(FILE.txt)                                    ||"<<endl 
+	    <<"\t\t|| 7. SAVE INFORMATION(FILE.txt)                                    ||"<<endl 
             <<"\t\t|| 0. EXIT PROGRAM                                                  ||"<<endl 
             <<"\t\t||_________________________________________________________________ ||"<<endl
             <<"\t\t---->ENTER YOUR SELECTION : ";
